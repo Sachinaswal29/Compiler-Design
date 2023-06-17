@@ -1,3 +1,5 @@
+Design a LEX code for counting number of lines,spaces,tabs ans rest of characters.
+
 %{
  int ch=0 , bl=0 , ln=0 ,tab=0 ;
 %}
