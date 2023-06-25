@@ -1,3 +1,5 @@
+Yacc-Lex code for +,-,* and / of integers with precedence specified within CFG.
+
 Lex Code
 %{
 #include<stdio.h>
