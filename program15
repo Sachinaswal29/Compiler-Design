@@ -1,3 +1,5 @@
+Yacc-Lex code for Desk calculator.
+
 Lex Code
 %{
 #include<stdlib.h>
